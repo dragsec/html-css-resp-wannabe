@@ -79,14 +79,11 @@ img {
     padding: 0;
     box-sizing: border-box;
   }  
-/*   div{
-    padding-bottom: 20px;
-  } */
   .row{
     width: 420px;
     margin-top: 0;
   }
-  .container{
+  #lezioni, #why{
     background-color: #F1F4D0;
   }
  .lezioni > div, #why > div,  #why .row > div {
@@ -96,12 +93,14 @@ img {
   #lezioni .row>.right {
   width: 100%;
   float: none;
+  padding: 20px;
 }
   #steps .row>.left,
   #steps .row>.central,
   #steps .row>.right {
     float: none;
     width: 100%;
+    padding: 20px;
   }
 
 }
