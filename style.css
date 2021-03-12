@@ -72,13 +72,14 @@ img {
     margin-top: 0;
   }
   img{
-    width: 50vw;
-    height: 50vw;
+    width: 200px;
   }
   #lezioni, #why{
     background-color: #F1F4D0;
   }
- .lezioni > div, #why > div,  #why .row > div {
+ .lezioni > div, 
+ #why > div,  
+ #why .row > div{
     width: 100%;
   }
   #lezioni .row>.left,
